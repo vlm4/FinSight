@@ -1,0 +1,10 @@
+yfinance
+finnhub-python
+mftool
+pandas
+requests
+python-dotenv
+streamlit
+plotly
+anthropic
+alpha_vantage
